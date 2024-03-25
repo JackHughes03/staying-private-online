@@ -58,6 +58,9 @@ Now if this is not as of interest to you, the next best option is FireFox. Firef
 <h2>4. Tails OS</h2>
 <p>Tails OS is an linux distro focused on privacy. To create Tails OS, you have to create a bootable USB. You can create a virtualbox but Tails OS documentation warns against it due to potential privacy complications. Once you have created a bootable Tails OS USB and have booted your computer with it, you can follow the above steps for VPNS and browsing. Although if you are prepared to go this far, you may aswell use TOR browser in Tails.</p>
 
+<h2>5. Route activity through TOR network.</h2>
+<p>This option is again an extreme option. You can actually route all your network activity through the TOR network. It is a little complex to explain it all on here, but if you want to go the extra step, you can search up guides... There are loads.</p>
+
 <h2 color="red">All furthur steps are for maximum privacy, usually to be utilised only by professionals.</h2>
 
 <h2>Extreme Privacy & Security</h2>
