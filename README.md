@@ -1,3 +1,5 @@
+<h1 color="red">Disclaimer: By utilising any of these steps, you agree you will not conduct any illegal activity and anything you do, I am not responsible for. This is simply just information that I have collected.</h1>
+
 <h1>Browse privately online</h1>
 
 <h2>Introduction</h2>
@@ -20,7 +22,7 @@ The public IP address serves as an identifier for the device and can provide inf
 </ul>
 
 <h2>1. VPN</h2>
-<p>Most of you have heard about a VPN. This stand for Virtual Private Network. Usually, when you go online, your device connects to the internet directly through your ISP. Your data travels from your device, through your ISP's servers, and then out onto the internet. When you use a VPN, it's like putting a secure tunnel around your internet connecti0n. Instead of connecting directly to your interent, your device first connects to a server operated by the VPN provider, which travels through an encrypted tunnel. This means that anyone trying to spy on your internet activity (including ISP and hackers), cannot see what you're doing as it is encrypted. The VPN server acts as a middleman between your device and the internet. When you access websites or online services, it appears as though your requests are coming from the VPN server's location rather than your actual location. A VPN also hides your real IP address, which makes it so much harder for other to track what you're doing. If you want to maximise your security, a paid VPN is the best option, although if that is not an option, free ones are better than nothing.
+<p>Most of you have heard about a VPN. This stand for Virtual Private Network. Usually, when you go online, your device connects to the internet directly through your ISP. Your data travels from your device, through your ISP's servers, and then out onto the internet. When you use a VPN, it's like putting a secure tunnel around your internet connecti0n. Instead of connecting directly to your interent, your device first connects to a server operated by the VPN provider, which travels through an encrypted tunnel. This means that anyone trying to spy on your internet activity (including ISP and hackers), cannot see what you're doing as it is encrypted. The VPN server acts as a middleman between your device and the internet. When you access websites or online services, it appears as though your requests are coming from the VPN server's location rather than your actual location. A VPN also hides your real IP address, which makes it so much harder for other to track what you're doing. If you want to maximise your security, a paid VPN is the best option, although if that is not an option, free ones are better than nothing. Remember, when signing up to your VPN, never use your actual details. You can use a temporary <a href="https://10minutemail.com/" target="_blank">10 minute email</a> to sign up.
 
   <h3>Paid VPNs</h3>
   <ul>
@@ -53,7 +55,18 @@ Now if this is not as of interest to you, the next best option is FireFox. Firef
   </ul>
 </p>
 
+<h2>4. Tails OS</h2>
+<p>Tails OS is an linux distro focused on privacy. To create Tails OS, you have to create a bootable USB. You can create a virtualbox but Tails OS documentation warns against it due to potential privacy complications. Once you have created a bootable Tails OS USB and have booted your computer with it, you can follow the above steps for VPNS and browsing. Although if you are prepared to go this far, you may aswell use TOR browser in Tails.</p>
+
 <h2 color="red">All furthur steps are for maximum privacy, usually to be utilised only by professionals.</h2>
 
-<h2>4. Tails OS</h2>
-<p></p>
+<h2>Extreme Privacy & Security</h2>
+<p>Now if you are super super concerned about your privacy, this is an extreme measure and is not usually used.
+  <ul>
+    <li><b>Buy 2 cheap laptops: </b>Purchase two cheap laptops, in person and in cash.</li>
+    <li><b>Go to public Wi-Fi: </b>Travel to a public network with your bootable Tails OS USB and VPN.</li>
+    <li><b>Setup hotspot: </b>One one laptop, connect to the public network and setup a hotspot. This should also be connected to a VPN.</li>
+    <li><b>Boot Tails OS on other laptop: </b>Boot into your Tails OS laptop, connect to the hotspot you just setup.</li>
+    <li><b>Connect VPN: </b>Now connect your VPN and enjoy your private browing experience.</li>
+  </ul>
+</p>
