@@ -47,7 +47,7 @@ Now if this is not as of interest to you, the next best option is FireFox. Firef
 <p>If you chose the FireFox option, you will want to install some additional extensions to secure yourself even more. You can do this by going to the <a href="https://addons.mozilla.org/en-US/firefox/extensions/">FireFox extension store</a>. Here are the extensions you want to install (all free):
   <ul>
     <li><b>UBlock Origin: </b>Block all ads everywhere.</li>
-    <li>Privacy Badger<b>: </b>This extension blocks all invisible trackers.</li>
+    <li><b>Privacy Badger: </b>This extension blocks all invisible trackers.</li>
     <li><b>Anti-AdBlocker Blocker: </b>Some sites detect you are utilising an AdBlocker. This extension blocks them from knowing.</li>
     <li><b>AdBlock Plus: </b>Another AdBlocker to be sure all those pesky ads are blocked.</li>
   </ul>
