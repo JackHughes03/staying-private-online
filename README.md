@@ -1,7 +1,5 @@
 <h1 color="red">Disclaimer: By utilising any of these steps, you agree you will not conduct any illegal activity and anything you do, I am not responsible for. This is simply just information that I have collected.</h1>
 
-<h1>Browse privately online</h1>
-
 <h2>Introduction</h2>
 <p>Nowdays, most of the stuff we click on is logged and monitored in some sort of way. This is done so discretely that it is not meant to be seen. Most people do not want this, but have no idea how much information is being logged. Most of your network activity goes through your ISP. This is a guide on how to safely browse anonymously online and each step increases your protection. But first, we need to do some learning.</p>
 
