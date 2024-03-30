@@ -4,7 +4,7 @@
 <p>Nowdays, most of the stuff we click on is logged and monitored in some sort of way. This is done so discretely that it is not meant to be seen. Most people do not want this, but have no idea how much information is being logged. Most of your network activity goes through your ISP. This is a guide on how to safely browse anonymously online and each step increases your protection. But first, we need to do some learning.</p>
 
 <h2>Background</h2>
-<p>Let's say you commit a crime and forensics sweep the place and collect your fingerprints from the crime scene. These fingerprints are uniquely identifiable to you and you only. This is similiar to the following points, but instead, these are constantly being logged. Note that the following exmaples are not all the things that make you uniquely identifiable, but are the most common.</p>
+<p>Let's say you commit a crime and forensics sweep the place and collect your fingerprints from the crime scene. These fingerprints are uniquely identifiable to you and you only. This is similiar to the following points, but instead, these are constantly being logged. Note that the following examples are not all the things that make you uniquely identifiable, but are the most common.</p>
 <ul>
   <li><b>IP Address: </b> Every device connected to the interent is assigned a unique IP address. There are two types of IP addresses:
     <ul>
@@ -16,7 +16,7 @@ The public IP address serves as an identifier for the device and can provide inf
 
 <li><b>MAC Address: </b> MAC stands for Media Access Control, and is another unique identifier. Although unlike IP addresses, MAC addresses are primarily used for communication within local networks. Devices on the same local network (like your home Wi-Fi) can see each other's MAC addresses because they are necessary for directing traffic within that network. However, MAC addresses are not visible beyond the local network. MAC addresses often look like: <b>3A-34-52-C4-69-B8</b>.</li>
 
-<li><b>Cookies:</b> Cookies are small pieces of data stored on a user's device by websites they visit. These cookies can contain information such as login credentials, site preferences, and browsing history. While they're not able to uniquely identify on their, cookies can be used to track user activity across websites and build up a profile of their behavior and interests.</li>
+<li><b>Cookies:</b> Cookies are small pieces of data stored on a user's device by websites they visit. These cookies can contain information such as login credentials, site preferences, and browsing history. While they're not able to uniquely identify on their own, cookies can be used to track user activity across websites and build up a profile of their behavior and interests.</li>
 </ul>
 
 <h1>How to protect yourself</h1>
