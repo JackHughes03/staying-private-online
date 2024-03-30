@@ -3,7 +3,7 @@
 <h2>Introduction</h2>
 <p>Nowdays, most of the stuff we click on is logged and monitored in some sort of way. This is done so discretely that it is not meant to be seen. Most people do not want this, but have no idea how much information is being logged. Most of your network activity goes through your ISP. This is a guide on how to safely browse anonymously online and each step increases your protection. But first, we need to do some learning.</p>
 
-<h2>Fingerprints</h2>
+<h2>Background</h2>
 <p>Let's say you commit a crime and forensics sweep the place and collect your fingerprints from the crime scene. These fingerprints are uniquely identifiable to you and you only. This is similiar to the following points, but instead, these are constantly being logged. Note that the following exmaples are not all the things that make you uniquely identifiable, but are the most common.</p>
 <ul>
   <li><b>IP Address: </b> Every device connected to the interent is assigned a unique IP address. There are two types of IP addresses:
@@ -19,6 +19,7 @@ The public IP address serves as an identifier for the device and can provide inf
 <li><b>Cookies:</b> Cookies are small pieces of data stored on a user's device by websites they visit. These cookies can contain information such as login credentials, site preferences, and browsing history. While they're not able to uniquely identify on their, cookies can be used to track user activity across websites and build up a profile of their behavior and interests.</li>
 </ul>
 
+<h1>How to protect yourself</h1>
 <h2>1. VPN</h2>
 <p>Most of you have heard about a VPN. This stands for Virtual Private Network. Usually, when you go online, your device connects to the internet directly through your ISP. Your data travels from your device, through your ISP's servers, and then out onto the internet. When you use a VPN, it's like putting a secure tunnel around your internet connection. Instead of connecting directly to your interent, your device first connects to a server operated by the VPN provider, which travels through an encrypted tunnel. This means that anyone trying to spy on your internet activity (including ISP and hackers), cannot see what you're doing as it is encrypted. The VPN server acts as a middleman between your device and the internet. When you access websites or online services, it appears as though your requests are coming from the VPN server's location rather than your actual location. A VPN also hides your real IP address, which makes it so much harder for other to track what you're doing. If you want to maximise your security, a paid VPN is the best option, although if that is not an option, free ones are better than nothing. Remember, when signing up to your VPN, never use your actual details. You can use a temporary <a href="https://10minutemail.com/" target="_blank">10 minute email</a> to sign up. If you want to test if your VPN is good, go ahead and connect to it, navigate to <a href="https://vpntesting.com/">this</a> webiste and run the scan.
 
