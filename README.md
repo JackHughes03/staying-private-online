@@ -69,7 +69,7 @@ Now if this is not as of interest to you, the next best option is FireFox. Firef
   <ul>
     <li><b>Buy 2 cheap laptops: </b>Purchase two cheap laptops, in person and in cash.</li>
     <li><b>Go to public Wi-Fi: </b>Travel to a public network with your bootable Tails OS USB and VPN.</li>
-    <li><b>Setup hotspot: </b>One one laptop, connect to the public network and setup a hotspot. This should also be connected to a VPN.</li>
+    <li><b>Setup hotspot: </b>On one laptop, connect to the public network and setup a hotspot. This should also be connected to a VPN.</li>
     <li><b>Boot Tails OS on other laptop: </b>Boot into your Tails OS laptop, connect to the hotspot you just setup.</li>
     <li><b>Connect VPN: </b>Now connect your VPN and enjoy your private browing experience.</li>
   </ul>
